@@ -18,7 +18,7 @@ Create one finished poster with all the exact text below clearly typeset. Visual
 
 Text (verbatim, line breaks may be adapted to design):
 IN GOOD COMPANY
-Private Collections of Philadelphia Photographers
+Photographs Collected by Philadelphia Photographers
 Presented by The Photo Review
 October 9 to November 21, 2026
 LightRoom Gallery
